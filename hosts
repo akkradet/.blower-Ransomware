@@ -16,32 +16,6 @@
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
 
-# localhost name resolution is handled within DNS itself.
-127.0.0.1       localhost
-#	::1             localhost
-## STOP SUBLIMETEXT UPDATES
-#127.0.0.1 sublimetext.com
-#127.0.0.1 www.sublimetext.com
-
-192.168.12.101  db.adempiere.com
-#192.168.11.230  Adempiere.BRC
-192.168.11.240  pool.brc.local
-192.168.11.234  brc3005
-192.168.11.238  BanpanERP-APEX
-
-192.168.33.177  inf_erp
-192.168.12.105  srv.brc-dev.local
-192.168.11.236	BRCDEV-REPORT
-192.168.11.233	xxx
-192.168.8.33	develop.adempiere.com   develop
-#192.168.11.242	ERP-Apex
-192.168.11.243	behcdocker
-192.168.11.230  ERP-APEX
-192.168.11.192 test_brc
-192.168.11.184 behc-backup
-
-192.168.20.221	repo.brdc.local
-
 127.0.0.1 ds.download.windowsupdate.com
 127.0.0.1 www.update.microsoft.com
 127.0.0.1 download.windowsupdate.com
